@@ -1,2 +1,2 @@
 # Oghji
-Hackathon Project
+Hackathon Project NSU 2023 - Winner Project
