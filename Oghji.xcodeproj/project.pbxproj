@@ -8,21 +8,33 @@
 
 /* Begin PBXBuildFile section */
 		9E39AF3F29CF33E40086BA60 /* OghjiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E39AF3E29CF33E40086BA60 /* OghjiApp.swift */; };
-		9E39AF4129CF33E40086BA60 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E39AF4029CF33E40086BA60 /* ContentView.swift */; };
 		9E39AF4329CF33E50086BA60 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E39AF4229CF33E50086BA60 /* Assets.xcassets */; };
 		9E39AF4629CF33E50086BA60 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E39AF4529CF33E50086BA60 /* Preview Assets.xcassets */; };
-		9E39AF4E29CF3D740086BA60 /* ButtonCategoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E39AF4D29CF3D740086BA60 /* ButtonCategoryView.swift */; };
 		9E39AF5029CF50220086BA60 /* NewRoomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E39AF4F29CF50220086BA60 /* NewRoomView.swift */; };
+		9E39AF5229CF59710086BA60 /* NavButtonCategoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E39AF5129CF59710086BA60 /* NavButtonCategoryView.swift */; };
+		9E6307E029CF8958000F18AE /* CalendarEventView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E6307DF29CF8958000F18AE /* CalendarEventView.swift */; };
+		9E6307E229CF992C000F18AE /* RoomButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E6307E129CF992C000F18AE /* RoomButtonView.swift */; };
+		9E8EE2D729D0611E0031EF5E /* DomoticsEventView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E8EE2D629D0611E0031EF5E /* DomoticsEventView.swift */; };
+		9E8EE2D929D061DF0031EF5E /* PriceEventView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E8EE2D829D061DF0031EF5E /* PriceEventView.swift */; };
+		9E8EE2DB29D062AA0031EF5E /* ChartEventView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E8EE2DA29D062AA0031EF5E /* ChartEventView.swift */; };
+		9EBD0E6529D02FEF005AB848 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EBD0E6429D02FEF005AB848 /* MainView.swift */; };
+		9EBD0E6929D04386005AB848 /* SettingsButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EBD0E6829D04386005AB848 /* SettingsButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		9E39AF3B29CF33E40086BA60 /* Oghji.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Oghji.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E39AF3E29CF33E40086BA60 /* OghjiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OghjiApp.swift; sourceTree = "<group>"; };
-		9E39AF4029CF33E40086BA60 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9E39AF4229CF33E50086BA60 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9E39AF4529CF33E50086BA60 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		9E39AF4D29CF3D740086BA60 /* ButtonCategoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonCategoryView.swift; sourceTree = "<group>"; };
 		9E39AF4F29CF50220086BA60 /* NewRoomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewRoomView.swift; sourceTree = "<group>"; };
+		9E39AF5129CF59710086BA60 /* NavButtonCategoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavButtonCategoryView.swift; sourceTree = "<group>"; };
+		9E6307DF29CF8958000F18AE /* CalendarEventView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarEventView.swift; sourceTree = "<group>"; };
+		9E6307E129CF992C000F18AE /* RoomButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoomButtonView.swift; sourceTree = "<group>"; };
+		9E8EE2D629D0611E0031EF5E /* DomoticsEventView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DomoticsEventView.swift; sourceTree = "<group>"; };
+		9E8EE2D829D061DF0031EF5E /* PriceEventView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PriceEventView.swift; sourceTree = "<group>"; };
+		9E8EE2DA29D062AA0031EF5E /* ChartEventView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartEventView.swift; sourceTree = "<group>"; };
+		9EBD0E6429D02FEF005AB848 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		9EBD0E6829D04386005AB848 /* SettingsButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +68,8 @@
 			isa = PBXGroup;
 			children = (
 				9E39AF3E29CF33E40086BA60 /* OghjiApp.swift */,
-				9E39AF4029CF33E40086BA60 /* ContentView.swift */,
+				9EBD0E6429D02FEF005AB848 /* MainView.swift */,
+				9E8EE2DC29D065040031EF5E /* CategoryViews */,
 				9E39AF4F29CF50220086BA60 /* NewRoomView.swift */,
 				9E39AF4C29CF3D590086BA60 /* Components */,
 				9E39AF4229CF33E50086BA60 /* Assets.xcassets */,
@@ -76,9 +89,22 @@
 		9E39AF4C29CF3D590086BA60 /* Components */ = {
 			isa = PBXGroup;
 			children = (
-				9E39AF4D29CF3D740086BA60 /* ButtonCategoryView.swift */,
+				9E39AF5129CF59710086BA60 /* NavButtonCategoryView.swift */,
+				9E6307E129CF992C000F18AE /* RoomButtonView.swift */,
+				9EBD0E6829D04386005AB848 /* SettingsButtonView.swift */,
 			);
 			path = Components;
+			sourceTree = "<group>";
+		};
+		9E8EE2DC29D065040031EF5E /* CategoryViews */ = {
+			isa = PBXGroup;
+			children = (
+				9E6307DF29CF8958000F18AE /* CalendarEventView.swift */,
+				9E8EE2D629D0611E0031EF5E /* DomoticsEventView.swift */,
+				9E8EE2D829D061DF0031EF5E /* PriceEventView.swift */,
+				9E8EE2DA29D062AA0031EF5E /* ChartEventView.swift */,
+			);
+			path = CategoryViews;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -151,8 +177,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9E39AF4E29CF3D740086BA60 /* ButtonCategoryView.swift in Sources */,
-				9E39AF4129CF33E40086BA60 /* ContentView.swift in Sources */,
+				9E6307E029CF8958000F18AE /* CalendarEventView.swift in Sources */,
+				9EBD0E6529D02FEF005AB848 /* MainView.swift in Sources */,
+				9E39AF5229CF59710086BA60 /* NavButtonCategoryView.swift in Sources */,
+				9E6307E229CF992C000F18AE /* RoomButtonView.swift in Sources */,
+				9E8EE2D729D0611E0031EF5E /* DomoticsEventView.swift in Sources */,
+				9EBD0E6929D04386005AB848 /* SettingsButtonView.swift in Sources */,
+				9E8EE2D929D061DF0031EF5E /* PriceEventView.swift in Sources */,
+				9E8EE2DB29D062AA0031EF5E /* ChartEventView.swift in Sources */,
 				9E39AF5029CF50220086BA60 /* NewRoomView.swift in Sources */,
 				9E39AF3F29CF33E40086BA60 /* OghjiApp.swift in Sources */,
 			);
